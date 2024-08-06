@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Magma_Cube.png/revision/latest?cb=20190805151823" width="100">
-  <h1 style="margin-left: 20px;">Magma Server</h1>
-</div>
+<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ed/Magma_Cube.png/revision/latest?cb=20190805151823" width="100">
+
+# Magma Server
 
 ### A basic implementation of the Minecraft Server Protocol in TypeScript
 
