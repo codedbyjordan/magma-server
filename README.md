@@ -18,4 +18,8 @@ To run:
 bun run src/main.ts
 ```
 
+Add `localhost:25565` to the server list
+
+<img src="image.png">
+
 This project was created using `bun init` in bun v1.0.16. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
